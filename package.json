@@ -1,0 +1,28 @@
+{
+  "name": "home-johnny",
+  "version": "1.0.0",
+  "description": "Demo kotiautomaatioprojektiin. RPi + Arduino Mega.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaaralav/home-johnny.git"
+  },
+  "keywords": [
+    "home",
+    "automation",
+    "RaspberryPi",
+    "Arduino"
+  ],
+  "author": "Ville Vaarala, Banana Phone Oy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaaralav/home-johnny/issues"
+  },
+  "homepage": "https://github.com/vaaralav/home-johnny#readme",
+  "dependencies": {
+    "johnny-five": "^0.8.89"
+  }
+}
