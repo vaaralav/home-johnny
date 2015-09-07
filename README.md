@@ -1,5 +1,5 @@
 # home-johnny
-Demokasailua kotiautomaatiota varten. RPi + Arduino Mega 2560
+Demokasailua kotiautomaatiota varten Raspberry Pi B+:lla ja Arduino Mega 2560:lla. Tavoitteena responsiivinen verkkosivu, jolla "lämmitystä" voidaan hallita verkon yli.
 
 ## Laitteisto
 - Raspberry Pi B+
